@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459283207121",
+    "project_id": "training1-fc4b6",
+    "storage_bucket": "training1-fc4b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459283207121:android:48b015e373066dce4f46f0",
+        "android_client_info": {
+          "package_name": "com.devieo.firease_train1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1CoTSGSS8W6wLeTLCes7HK9tnfRbkoNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
